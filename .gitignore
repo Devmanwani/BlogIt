@@ -1,0 +1,12 @@
+node_modules
+dist
+/backend/wrangler.toml
+.dev.vars
+/backend/.env
+/frontend/frontend/src/config.ts
+
+# Change them to your taste:
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lockb
